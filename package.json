@@ -1,0 +1,17 @@
+{
+	"devDependencies": {
+		"jest": "^29.5.0",
+		"babel-jest": "^29.5.0",
+		"@babel/core": "^7.22.1",
+		"@babel/preset-env": "^7.22.2",
+		"puppeteer": "^20.4.0",
+		"jest-puppeteer": "^9.0.0"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"jest": {
+		"preset": "jest-puppeteer",
+		"verbose": true
+	}
+}
