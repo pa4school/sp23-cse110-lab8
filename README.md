@@ -29,4 +29,4 @@ Puppeteer is a library that provides a high-level API to control Chrome or Chrom
    - As I said in the answer 3, it depends. Yes if the "max message length" feature can be broken down into smaller units of code that can be tested independently, such as the function that checks the length of the message, the function that truncates the message if it exceeds the limit, and the function that displays an error message if the user tries to type more than 80 characters. No if the "max message length" feature is a feature that requires a user to interact with the application, such as typing (yes typing typing) and seeing the feedback on the screen.
 
 # Screenshots
-![Screenshot 1](./assets/screenshots/screenshot1.png)
+![Screenshot](./assets/screenshots/test.png)
